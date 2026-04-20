@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey there! 👋
+I’m Taimoor, a game developer from Pakistan 🇵🇰
 
-<!--
-**Taimoor-Riaz/Taimoor-Riaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a professional Unity Game Developer with 4+ years of experience working on a variety of projects for mobile and PC. I specialize in C#, gameplay mechanics, and building engaging, optimized game systems. I enjoy turning creative ideas into interactive experiences and continuously improving my skills in game development and emerging technologies like the metaverse.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+Unity (2D & 3D)
+C#
+Game Mechanics & Systems
+UI/UX in Games
+Optimization & Performance
+🎮 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my featured projects:
+
+🔹 Project Name 1
+ – Short description
+🔹 Project Name 2
+ – Short description
+🔹 Project Name 3
+ – Short description

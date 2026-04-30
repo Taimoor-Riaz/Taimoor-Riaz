@@ -14,8 +14,8 @@ Optimization & Performance
 Here are some of my featured projects:
 
 🔹 Project Name 1
- – Short description
+ – will upload shortly
 🔹 Project Name 2
- – Short description
+ – will upload shortly
 🔹 Project Name 3
- – Short description
+ – will upload shortly

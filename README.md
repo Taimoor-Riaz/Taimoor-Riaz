@@ -37,13 +37,15 @@ I build Unity games from concept to launch: mobile, PC, and real-time multiplaye
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Buraco Plus](https://github.com/Taimoor-Riaz/Multiplayer-card-game)** | Brazilian Buraco multiplayer card game with lobby matchmaking | Unity, Photon Fusion, Socket.IO, NestJS |
-| **Misadventures of Samson** | 3D endless runner for Android and iOS | Unity 6, URP, IAP |
-| **[Merge Defense](https://github.com/Taimoor-Riaz/TowerDefense)** | 2D merge tower-defense survival game with waves and bosses | Unity 6, URP 2D |
-| **The Fourth Impossible** | Single-player PC game with combat, quests, and cutscenes | Unity, C# |
-| **Elm Kiosk** | AI-powered 3D kiosk character with LLM answers and lip sync | Unity, WebSockets, SALSA LipSync |
+| **[Buraco Plus](https://github.com/Taimoor-Riaz/Buraco-Plus-Showcase)** | Brazilian Buraco multiplayer card game with lobby matchmaking | Unity, Photon Fusion, Socket.IO, NestJS |
+| **[Elm Kiosk](https://github.com/Taimoor-Riaz/Elm-AI-Kiosk-Showcase)** | AI-powered 3D kiosk character with LLM answers and lip sync | Unity, WebSockets, SALSA LipSync |
+| **[Merge Defense](https://github.com/Taimoor-Riaz/Merge-Defense-Showcase)** | 2D merge tower-defense survival game with waves and bosses | Unity 6, URP 2D |
+| **[Misadventures of Samson](https://github.com/Taimoor-Riaz/Misadventures-of-Samson-Showcase)** | 3D endless runner for Android and iOS | Unity 6, URP, IAP |
+| **[The Fourth Impossible](https://github.com/Taimoor-Riaz/The-Fourth-Impossible-Showcase)** | Single-player PC game with combat, quests, and cutscenes | Unity, C# |
+| **[Hide and Seek](https://github.com/Taimoor-Riaz/Hide-and-Seek-Multiplayer-Showcase)** | Online multiplayer hide-and-seek for mobile | Unity, Photon Fusion |
+| **[Pizzarush](https://play.google.com/store/apps/details?id=com.solutions.pizzrushpizzagame)** | Pizza cooking game with 50K+ downloads on Google Play | Unity, AdMob |
 
-> Many of my commercial projects are under NDA and kept private. Gameplay footage is on my [portfolio](https://taimoor-riaz.github.io) and [showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI).
+> Client source code stays private under NDA, so each project links to a case study. Gameplay footage is on my [portfolio](https://taimoor-riaz.github.io) and [showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI).
 
 ## Open-source tools
 

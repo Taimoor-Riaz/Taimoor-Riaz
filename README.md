@@ -37,6 +37,7 @@ I build Unity games from concept to launch: mobile, PC, and real-time multiplaye
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[3D Baseball Game](https://github.com/Taimoor-Riaz/3D-Baseball-Game-Showcase)** | 3D baseball game with batting, fielding AI, AI vs AI matches, and a dynamic camera | Unity, C#, Game AI |
 | **[Buraco Plus](https://github.com/Taimoor-Riaz/Buraco-Plus-Showcase)** | Brazilian Buraco multiplayer card game with lobby matchmaking | Unity, Photon Fusion, Socket.IO, NestJS |
 | **[Elm Kiosk](https://github.com/Taimoor-Riaz/Elm-AI-Kiosk-Showcase)** | AI-powered 3D kiosk character with LLM answers and lip sync | Unity, WebSockets, SALSA LipSync |
 | **[Merge Defense](https://github.com/Taimoor-Riaz/Merge-Defense-Showcase)** | 2D merge tower-defense survival game with waves and bosses | Unity 6, URP 2D |

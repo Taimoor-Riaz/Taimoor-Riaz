@@ -48,6 +48,13 @@ I build Unity games from concept to launch: mobile, PC, and real-time multiplaye
 
 > Client source code stays private under NDA, so each project links to a case study. Gameplay footage is on my [portfolio](https://taimoor-riaz.github.io) and [showreel](https://www.youtube.com/watch?v=8tkrPeMQgKI).
 
+## Play my games
+
+| Game | What it is | Play |
+|---|---|---|
+| **[Recoil Rush](https://github.com/Taimoor-Riaz/Recoil-Rush)** | 2D physics shooter where every shot pushes you the opposite way | [Play on itch.io](https://taimoorriaz.itch.io/recoil-rush) |
+| **Never Trust Rules** | 2D psychological puzzle where the rules on screen can lie | [Play on itch.io](https://taimoorriaz.itch.io/never-trust-rules) |
+
 ## Open-source tools
 
 - **[Unity-Admob-Ads](https://github.com/Taimoor-Riaz/Unity-Admob-Ads)**: drop-in AdMob manager for Unity with a custom editor for multiple ad IDs

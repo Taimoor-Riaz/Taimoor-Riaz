@@ -53,7 +53,7 @@ I build Unity games from concept to launch: mobile, PC, and real-time multiplaye
 | Game | What it is | Play |
 |---|---|---|
 | **[Recoil Rush](https://github.com/Taimoor-Riaz/Recoil-Rush)** | 2D physics shooter where every shot pushes you the opposite way | [Play on itch.io](https://taimoorriaz.itch.io/recoil-rush) |
-| **Never Trust Rules** | 2D psychological puzzle where the rules on screen can lie | [Play on itch.io](https://taimoorriaz.itch.io/never-trust-rules) |
+| **[Never Trust Rules](https://github.com/Taimoor-Riaz/ReversedRole_Done)** | 2D psychological puzzle where the rules on screen can lie | [Play on itch.io](https://taimoorriaz.itch.io/never-trust-rules) |
 
 ## Open-source tools
 
